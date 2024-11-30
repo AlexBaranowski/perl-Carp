@@ -9,7 +9,7 @@ This module is free software; you can redistribute it and/or modify it under the
 I added the explicit license file so that GitHub can detect and return the license correctly via API.
 
 ```bash
-curl https://raw.githubusercontent.com/Perl/perl5/refs/heads/blead/Copying > licence
+curl https://raw.githubusercontent.com/Perl/perl5/refs/heads/blead/Copying > License
 ```
 
 # But why?
